@@ -146,7 +146,7 @@ function Login() {
                                     </Form.Group>
                                     <Form.Group style={{ paddingLeft: '20px', paddingTop: '20px' }}>
                                         <Form.Check id="isFarmerChkBox" value={check} onChange={handleCheck} style={{ display: 'inline-block' }}></Form.Check>
-                                        <Form.Label style={{ fontSize: '14px', color: 'white', fontFamily: 'Open Sans', fontWeight: 'bold', paddingLeft: '20px', display: 'inline-block' }}>Are you a farmer?</Form.Label>
+                                        <Form.Label style={{ fontSize: '14px', color: 'white', fontFamily: 'Open Sans', fontWeight: 'bold', paddingLeft: '20px', display: 'inline-block' }}>I'm a farmer</Form.Label>
                                     </Form.Group>
                                     <Form.Group style={{ paddingLeft: '130px', paddingTop: '10px' }}>
                                         <Button variant='light' style={{ fontFamily: 'Open Sans', FontWeight: 'bold' }} onClick={handleClick}>Submit</Button>

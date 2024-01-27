@@ -8,8 +8,8 @@ function HeaderSection() {
             {/* <span> */}
             {/* <span style={{ display: 'flex' }}> */}
             <img style={{ marginTop: '10px', marginBottom: '10px', marginLeft: '30px', height: '50px', width: '50px' }} src={logo} alt="something went wrong" />
-            <span style={{ fontFamily: 'Open Sans', marginLeft: '30px', fontWeight: 'bold' }}>
-                AGRI ASSIST
+            <span style={{ fontFamily: 'Open Sans', marginLeft: '30px', fontWeight: 'bold',fontSize:'20px' }}>
+                Agri-TechMate
             </span>
         </div>
     )

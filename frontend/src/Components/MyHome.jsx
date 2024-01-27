@@ -28,10 +28,10 @@ function MyHome() {
         <>
             <NavbarFinal />
             <ThemeProvider theme={defaultTheme} >
-                <Grid container component="main" sx={{ backgroundColor: "#D2F6C5", height: '80vh' }}>
+                <Grid container component="main" sx={{ backgroundColor: "#abd1f3", height: '80vh' }}>
                     <CssBaseline />
 
-                    <Grid item xs={12} sm={8} md={6} sx={{ backgroundColor: "#D2F6C5" }} component={Paper} elevation={10} square>
+                    <Grid item xs={12} sm={8} md={6} sx={{ backgroundColor: "#abd1f3" }} component={Paper} elevation={10} square>
                         <Box
                             sx={{
                                 my: 1,

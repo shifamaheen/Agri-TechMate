@@ -53,7 +53,7 @@ function NavbarFinal() {
             <HeaderSection />
             <nav className="navbar navbar-expand-sm navbar-dark bg-light">
                 <div className="container-fluid" style={{ textAlign: "center" }}>
-                    <a className="navbar-brand" style={{ textAlign: "center", marginLeft: '50px', color: 'black' }} href="/">Agri-Assist</a>
+                    <a className="navbar-brand" style={{ textAlign: "center", marginLeft: '50px', color: 'black' }} href="/">Agri-TechMate</a>
                     <button style={{ backgroundColor: 'black' }} className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
                         <span className="navbar-toggler-icon"></span>
                     </button>

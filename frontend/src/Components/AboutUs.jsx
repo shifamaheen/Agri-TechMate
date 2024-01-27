@@ -27,15 +27,15 @@ function AboutUs() {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant="h5" component="div">
-                                        Ch Likitha
+                                       Shifa Maheen
                                     </Typography>
                                     <Typography variant="body1" color="black">
-                                        Flask Backend Developer
+                                       Frontend Developer
                                     </Typography>
                                 </CardContent>
                             </CardActionArea>
                             <CardActions>
-                                <a href="https://github.com/MohdSaif-1807" style={{ textDecoration: "none" }} target="_blank">
+                                <a href="https://github.com/shifamaheen/Agri-TechMate" style={{ textDecoration: "none" }} target="_blank">
                                     <Button variant="outlined" endIcon={<GitHubIcon />} style={{ borderColor: "white", color: "black" }}>
                                         CONNECT
                                     </Button></a>
@@ -51,55 +51,7 @@ function AboutUs() {
                                 />
                                 <CardContent>
                                     <Typography gutterBottom variant="h5" component="div">
-                                        RRohithh Redhie
-                                    </Typography>
-                                    <Typography variant="body1" color="black">
-                                        Frontend Developer
-                                    </Typography>
-                                </CardContent>
-                            </CardActionArea>
-                            <CardActions>
-                                <a href="https://github.com/MohdSaif-1807" style={{ textDecoration: "none" }} target="_blank">
-                                    <Button variant="outlined" endIcon={<GitHubIcon />} style={{ borderColor: "white", color: "black" }}>
-                                        CONNECT
-                                    </Button></a>
-                            </CardActions>
-                        </Card>
-                        <Card sx={{ maxWidth: 300, marginLeft: "15px", marginBottom: "20px" }}>
-                            <CardActionArea>
-                                <CardMedia
-                                    component="img"
-                                    height="300"
-                                    image={maleProfile}
-                                    alt="green iguana"
-                                />
-                                <CardContent>
-                                    <Typography gutterBottom variant="h5" component="div">
-                                        Mohammed Basheer
-                                    </Typography>
-                                    <Typography variant="body1" color="black">
-                                        Deep Learing Model Developer
-                                    </Typography>
-                                </CardContent>
-                            </CardActionArea>
-                            <CardActions>
-                                <a href="https://github.com/MohdSaif-1807" style={{ textDecoration: "none" }} target="_blank">
-                                    <Button variant="outlined" endIcon={<GitHubIcon />} style={{ borderColor: "white", color: "black" }}>
-                                        CONNECT
-                                    </Button></a>
-                            </CardActions>
-                        </Card>
-                        <Card sx={{ maxWidth: 300, marginLeft: "15px", marginBottom: "20px" }}>
-                            <CardActionArea>
-                                <CardMedia
-                                    component="img"
-                                    height="300"
-                                    image={maleProfile}
-                                    alt="green iguana"
-                                />
-                                <CardContent>
-                                    <Typography gutterBottom variant="h5" component="div">
-                                        Mohd Saif
+                                        Shaik Sohail Hussain
                                     </Typography>
                                     <Typography variant="body1" color="black">
                                         Backend Developer
@@ -107,7 +59,55 @@ function AboutUs() {
                                 </CardContent>
                             </CardActionArea>
                             <CardActions>
-                                <a href="https://github.com/MohdSaif-1807" style={{ textDecoration: "none" }} target="_blank">
+                                <a href="https://github.com/shifamaheen/Agri-TechMate" style={{ textDecoration: "none" }} target="_blank">
+                                    <Button variant="outlined" endIcon={<GitHubIcon />} style={{ borderColor: "white", color: "black" }}>
+                                        CONNECT
+                                    </Button></a>
+                            </CardActions>
+                        </Card>
+                        <Card sx={{ maxWidth: 300, marginLeft: "15px", marginBottom: "20px" }}>
+                            <CardActionArea>
+                                <CardMedia
+                                    component="img"
+                                    height="300"
+                                    image={femaleProfile}
+                                    alt="green iguana"
+                                />
+                                <CardContent>
+                                    <Typography gutterBottom variant="h5" component="div">
+                                        Meghana Reddy Sripathi
+                                    </Typography>
+                                    <Typography variant="body1" color="black">
+                                        Deep Learing Model Developer
+                                    </Typography>
+                                </CardContent>
+                            </CardActionArea>
+                            <CardActions>
+                                <a href="https://github.com/shifamaheen/Agri-TechMate" style={{ textDecoration: "none" }} target="_blank">
+                                    <Button variant="outlined" endIcon={<GitHubIcon />} style={{ borderColor: "white", color: "black" }}>
+                                        CONNECT
+                                    </Button></a>
+                            </CardActions>
+                        </Card>
+                        <Card sx={{ maxWidth: 300, marginLeft: "15px", marginBottom: "20px" }}>
+                            <CardActionArea>
+                                <CardMedia
+                                    component="img"
+                                    height="300"
+                                    image={femaleProfile}
+                                    alt="green iguana"
+                                />
+                                <CardContent>
+                                    <Typography gutterBottom variant="h5" component="div">
+                                       Tejaswini Bairi
+                                    </Typography>
+                                    <Typography variant="body1" color="black">
+                                    Flask Backend Developer
+                                    </Typography>
+                                </CardContent>
+                            </CardActionArea>
+                            <CardActions>
+                                <a href="https://github.com/shifamaheen/Agri-TechMate" style={{ textDecoration: "none" }} target="_blank">
                                     <Button variant="outlined" endIcon={<GitHubIcon />} style={{ borderColor: "white", color: "black" }}>
                                         CONNECT
                                     </Button></a>

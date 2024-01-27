@@ -87,7 +87,7 @@ export default function SignUp() {
                         backgroundPosition: 'center'
                     }}
                 />
-                <Grid item xs={12} sm={8} md={6} style={{ backgroundColor: "#CCEDD2" }} component={Paper} elevation={10} square>
+                <Grid item xs={12} sm={8} md={6} style={{ backgroundColor: "#abd1f3" }} component={Paper} elevation={10} square>
                     <Box
                         sx={{
                             my: 1,
@@ -139,7 +139,7 @@ export default function SignUp() {
 
                                 <Form.Group style={{ paddingBottom: '13px' }}>
                                     <Form.Check id="isFarmerChkBox" value={check} onChange={handleCheck} style={{ display: 'inline-block' }}></Form.Check>
-                                    <Form.Label style={{ fontSize: '14px', fontFamily: 'Open Sans', fontWeight: 'bold', paddingLeft: '20px', display: 'inline-block' }}>Are you a farmer?</Form.Label>
+                                    <Form.Label style={{ fontSize: '14px', fontFamily: 'Open Sans', fontWeight: 'bold', paddingLeft: '20px', display: 'inline-block' }}>I'm a farmer</Form.Label>
                                 </Form.Group>
 
                                 <Form.Group style={{ paddingLeft: '200px' }}>

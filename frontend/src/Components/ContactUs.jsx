@@ -61,7 +61,7 @@ function ContactUs() {
                     alignItems="center"
                     justifyContent="center"
                     md={12}
-                    sx={{ backgroundColor: "#99F3BD", paddingTop: "20px", display: "grid", minHeight: "70vh" }}>
+                    sx={{ backgroundColor: "#FFFFFF", paddingLeft:"20px",paddingRight:"20px",paddingTop: "20px", display: "grid", minHeight: "70vh" }}>
                     <Row>
                         <Col>
                             <Form.Label style={{ fontStyle: "Open Sans", fontWeight: "bold" }}>Name</Form.Label>

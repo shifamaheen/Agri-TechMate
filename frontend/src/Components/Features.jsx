@@ -41,15 +41,15 @@ function Features() {
                                     <Container style={{ paddingLeft: "40px", paddingTop: "150px", alignItems: "center", alignContent: "center" }}>
                                         <Row>
                                             <Col >
-                                                <Box style={{ display: "grid", position: "relative", width: "300px", height: "300px", backgroundColor: '#99F3BD' }}>
-                                                    <img src={cropRelatedIssues} style={{ marginTop: "40px", marginLeft: "60px", display: "grid", position: "relative", overflow: 'visible' }} width="180px" height="180px" alt="prfile.jpg" />
-                                                    <a href="/crop-related-issues" style={{ marginLeft: '60px', textDecoration: 'none', fontFamily: 'Open Sans', fontWeight: 'bold', color: 'black' }}>Crop Related Issues</a>
+                                                <Box style={{ display: "grid", position: "relative", width: "400px", height: "300px", backgroundColor: '#99F3BD' }}>
+                                                    <img src={cropRelatedIssues} style={{ marginTop: "40px", marginLeft: "60px", display: "grid", position: "relative", overflow: 'visible' }} width="300px" height="180px" alt="prfile.jpg" />
+                                                   <center> <a href="/crop-related-issues" style={{ marginLeft: '60px', textDecoration: 'none', fontFamily: 'Open Sans', fontWeight: 'bold', color: 'black' }}>Crop Related Issues</a></center>
                                                 </Box>
                                             </Col>
                                             <Col>
-                                                <Box style={{ display: "grid", position: "relative", width: "300px", height: "300px", backgroundColor: '#99F3BD' }}>
-                                                    <img src={cropMarketing} style={{ marginTop: "40px", marginLeft: "60px", display: "grid", position: "relative", overflow: 'visible' }} width="180px" height="180px" alt="prfile.jpg" />
-                                                    <a href="/marketplace" style={{ marginLeft: '80px', textDecoration: 'none', fontFamily: 'Open Sans', fontWeight: 'bold', color: 'black' }}>Yeild Marketing</a>
+                                                <Box style={{ display: "grid", position: "relative", width: "400px", height: "300px", backgroundColor: '#99F3BD' }}>
+                                                    <img src={cropMarketing} style={{ marginTop: "40px", marginLeft: "60px", display: "grid", position: "relative", overflow: 'visible' }} width="300px" height="180px" alt="prfile.jpg" />
+                                                   <center> <a href="/marketplace" style={{ marginLeft: '80px', textDecoration: 'none', fontFamily: 'Open Sans', fontWeight: 'bold', color: 'black' }}>Yeild Marketing</a></center>
                                                 </Box>
                                             </Col>
                                         </Row>
@@ -61,7 +61,7 @@ function Features() {
                                             <Col>
                                                 <Box style={{ display: "grid", position: "relative", width: "300px", height: "300px", backgroundColor: '#99F3BD', overflow: 'visible' }}>
                                                     <img src={cropMarketing} style={{ marginTop: "40px", marginLeft: "60px", display: "grid", position: "relative", overflow: 'visible' }} width="180px" height="180px" alt="prfile.jpg" />
-                                                    <a href="/marketplace" style={{ marginLeft: '80px', textDecoration: 'none', fontFamily: 'Open Sans', fontWeight: 'bold', color: 'black' }}>Yeild Marketing</a>
+                                                    <center><a href="/marketplace" style={{ marginLeft: '80px', textDecoration: 'none', fontFamily: 'Open Sans', fontWeight: 'bold', color: 'black' }}>Yeild Marketing</a></center>
                                                 </Box>
                                             </Col>
                                         </Row>
